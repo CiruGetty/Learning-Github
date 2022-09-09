@@ -7,3 +7,6 @@ Oranges
 Cabbage
 Coconuts
 Cucumbers
+Meat
+Onions 
+Tomatoes
